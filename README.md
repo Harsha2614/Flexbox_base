@@ -1,57 +1,75 @@
-🌐 Holy Grail Blog Layout
+Here’s a polished **GitHub-ready README.md** for your project 👇
 
-A responsive blog layout built with HTML5 & CSS Grid, following the Holy Grail Layout pattern.
-It includes a header, footer, main content, and two sidebars (left & right) with a clean, modern design.
+---
 
-✨ Features
+# 🌐 Holy Grail Blog Layout
 
-📱 Responsive Design – Works on desktops, tablets, and mobiles
+A **responsive blog layout** built with **HTML5 & CSS Grid**, following the **Holy Grail Layout** pattern.
+It includes a **header, footer, main content, and two sidebars** (left & right) with a clean, modern design.
 
-🎨 Modern Grid Layout – Three-column layout on large screens, stacked layout on smaller screens
+---
 
-📰 Two Sidebars –
+## ✨ Features
 
-Left: Latest Articles
+* 📱 **Responsive Design** – Works on desktops, tablets, and mobiles
+* 🎨 **Modern Grid Layout** – Three-column layout on large screens, stacked layout on smaller screens
+* 📰 **Two Sidebars** –
 
-Right: Popular Topics
+  * Left: Latest Articles
+  * Right: Popular Topics
+* 🖼️ **Image Support** – Article and topic images styled with rounded corners
+* 🧩 **Clean UI** – Proper spacing, grid alignment, and readability
 
-🖼️ Image Support – Article and topic images styled with rounded corners
+---
 
-🧩 Clean UI – Proper spacing, grid alignment, and readability
+## 📂 Project Structure
 
-📂 Project Structure
+```
 📁 holy-grail-layout
  ┣ 📜 index.html     # Main HTML structure
  ┣ 📜 index.css      # Styling with CSS Grid
  ┗ 📜 README.md      # Project documentation
+```
 
-🚀 Getting Started
-1. Clone the repository
-git clone https://github.com/your-username/holy-grail-layout.git
-cd holy-grail-layout
+---
 
-2. Open in Browser
+## 🚀 Getting Started
 
-Simply open the index.html file in your preferred browser.
+### 1. Clone the repository
 
-🖥️ Layout Preview
-🖼️ Desktop View
+```bash
+git clone https://github.com/Harsha2614/Flexbox_base.git
+cd Flexbox_base
+```
 
-Header at the top
+### 2. Open in Browser
 
-Two sidebars (left & right)
+Simply open the `index.html` file in your preferred browser.
 
-Main content in the center
+---
 
-Footer at the bottom
+## 🖥️ Layout Preview
 
-📱 Mobile View
+### 🖼️ Desktop View
 
-Stacked vertically in the order:
-Header → Main → Left Sidebar → Right Sidebar → Footer
+* Header at the top
+* Two sidebars (left & right)
+* Main content in the center
+* Footer at the bottom
 
-🔧 Technologies Used
+### 📱 Mobile View
 
-HTML5 – Structure
+* Stacked vertically in the order:
+  **Header → Main → Left Sidebar → Right Sidebar → Footer**
 
-CSS3 (Grid & Flexbox) – Styling & Responsive Layout
+---
+
+## 🔧 Technologies Used
+
+* **HTML5** – Structure
+* **CSS3 (Grid & Flexbox)** – Styling & Responsive Layout
+
+
+
+---
+
